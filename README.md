@@ -1,5 +1,5 @@
 # Clonar
-`https://github.com/eljaviador/contenedor-01.git`
+`https://github.com/eljaviador/spring-01.git`
 
 # Compilar y empaquetar con Maven
 `mvn package`
